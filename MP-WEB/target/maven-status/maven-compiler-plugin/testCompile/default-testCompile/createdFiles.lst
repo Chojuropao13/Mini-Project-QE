@@ -1,0 +1,8 @@
+starter\stepdefinitions\LogOutSteps.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\ProductSteps.class
+starter\pages\LoginPage.class
+starter\pages\LogOut.class
+starter\stepdefinitions\LoginSteps.class
+starter\pages\Product.class
+starter\pages\NegativeProduct.class
